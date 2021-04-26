@@ -20,9 +20,17 @@ header {
 }
 
 .li-1{
-
+    color: black;
     padding-left: 3rem;
     list-style: none; 
+    font-weight: 400;
+
+}
+
+.li-1:hover{
+    color: black;
+    font-weight: 900;
+    font-size:22px;
 }
 
 
@@ -56,3 +64,38 @@ header {
 
 }
 
+.imagem-section {
+
+    width: 23.5%;
+    padding-bottom: 1rem;
+    
+
+}
+
+
+.section-main2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+    padding: 5rem;
+
+    
+}
+
+.footer-1{
+    height: 5rem;
+    padding-left: 3rem;
+}
+
+.img-foto {
+    padding-left: 2rem;
+
+
+}
+
+.p-parágrafo{
+
+    color: black;
+    padding-left: 40rem;
+
+}
